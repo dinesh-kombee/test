@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229424575850",
+    "project_id": "kombee-50575",
+    "storage_bucket": "kombee-50575.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229424575850:android:ec4b9f2a8d546548e02113",
+        "android_client_info": {
+          "package_name": "com.example.mamsti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDCwF2nNMFnQlnbdsTbA43HRSgwIQcyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
